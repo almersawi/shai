@@ -12,7 +12,7 @@ You can use OpenAI or a local LLM as long as it follows the same format and supp
 ### Using pip
 
 ```bash
-pip install shai
+pip install onprem-shai
 ```
 
 ## Quick Start
@@ -37,7 +37,7 @@ shai run docker test
 ### Basic Usage
 
 ```bash
-shai "create a new python virtual environment" -n 2
+shai create a new python virtual environment
 ```
 
 ### Examples
